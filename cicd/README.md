@@ -64,6 +64,8 @@ sudo usermod -aG docker $USER
 
 Lembre-se de que "$USER" é um espaço reservado e deve ser substituído pelo nome real do usuário que você deseja adicionar ao grupo Docker. Para que essas alterações entrem em vigor, será necessário fazer logout da sessão e fazer login novamente. Após isso, você poderá utilizar o Docker sem precisar usar "sudo" em cada comando.
 
+## Instalar Minikube
+
 ### Passo 1 — Instalar o Minikube
 
 Utilize o comando abaixo para instalar o Minikube:
